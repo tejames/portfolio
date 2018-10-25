@@ -46,4 +46,10 @@ div{
 
 }
 
+@media screen and (max-width: 600px) {
+  .orange {
+    background-color: cyan;
+    width:22%;
+  }
+}
 
